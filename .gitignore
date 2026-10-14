@@ -1,0 +1,23 @@
+# Keil/uVision 编译输出
+Objects/
+Listings/
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.bin
+*.lnp
+*.sct
+*.map
+*.dep
+*.bak
+*.lst
+*.plg
+*.uvguix.*
+*.uvoptx
+*.uvguix
+JLinkLog.txt
+DebugConfig/
+*.scvd
+*.pyc

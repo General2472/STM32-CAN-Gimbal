@@ -1,0 +1,5 @@
+Load "Slave_Node\\Slave_Node.axf" 
+Erase Done.Programming Done.Verify Failed!Internal command error
+Internal command error
+Error: Flash Download failed  -  "Cortex-M3"
+Flash Load finished at 21:58:58

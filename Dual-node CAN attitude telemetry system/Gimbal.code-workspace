@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "name": "云台工程 (根目录)",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/Objects": true,
+      "**/Listings": true,
+      "**/*.o": true,
+      "**/*.d": true,
+      "**/*.axf": true,
+      "**/*.uvguix.*": true,
+      "**/*.uvoptx": true,
+      "**/DebugConfig": true
+    },
+    "search.exclude": {
+      "Drivers": true,
+      "**/Objects": true,
+      "**/Listings": true
+    }
+  }
+}
